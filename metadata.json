@@ -1,0 +1,5 @@
+{
+  "name": "Gemini pdf html cadastre analyse",
+  "description": "An application to extract, analyze, and synthesize property data from multiple PDF files using the Google Gemini API. It allows users to upload PDFs, specify search criteria, view aggregated results, and export them to Excel.",
+  "requestFramePermissions": []
+}
